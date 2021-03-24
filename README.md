@@ -1,3 +1,5 @@
+This react application is built with rsuite which gives the functionality of Side Navigation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
